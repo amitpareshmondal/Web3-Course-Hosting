@@ -48,3 +48,5 @@ Frontend -
 
 ```
 The app will Start on port 3000
+
+###Note: You Need to be on Polygon Zkevm Testnet to run the project
